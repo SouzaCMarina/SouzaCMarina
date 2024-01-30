@@ -6,6 +6,7 @@ I am an academic in Systems Analysis and Development. Currently backend developm
 
 ### Hard Skills
 ![JAVA](https://img.shields.io/badge/JAVA-pink)
+![C#](https://img.shields.io/badge/C#-pink)
 
 
 ### Soft Skills
