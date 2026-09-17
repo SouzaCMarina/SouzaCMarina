@@ -2,7 +2,7 @@
 ##### Name:
 
 # Marina Cavalcante
-I am an academic in Systems Analysis and Development. Currently backend development intern.
+I am an academic in Systems Analysis and Development. Currently Qualitty Assurance intern.
 
 ### Hard Skills
 ![JAVA](https://img.shields.io/badge/JAVA-pink)
